@@ -1,3 +1,18 @@
+#COREL
+0.0.0.0  apps.corel.com
+0.0.0.0  mc.corel.com
+0.0.0.0  iws.corel.com
+0.0.0.0  deploy.akamaitechnologies.com
+0.0.0.0  compute-1.amazonaws.com
+0.0.0.0  origin-mc.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 compute-1.amazonaws.com
+127.0.0.1 dev1.ipm.corel.public.corel.net
+127.0.0.1 sws.corel.com
+127.0.0.1 redirect.corel.com
+127.0.0.1 dam.corel.com
+
+#ADOBE
 127.0.0.1 ic.adobe.io
 127.0.0.1 1b9khekel6.adobe.io
 127.0.0.1 9ngulmtgqi.adobe.io
