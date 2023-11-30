@@ -3,47 +3,6 @@
 255.255.255.255	broadcasthost
 ::1             localhost
 
-#GRAPHISOFT
-127.0.0.1  wit-ams-cloudservice.cloudapp.net
-127.0.0.1  licensemanager.graphisoft.com
-127.0.0.1  licensemanager-test.graphisoft.com
-127.0.0.1  bimx-api.graphisoft.com
-127.0.0.1  licensemanager-subtest.graphisoft.com
-127.0.0.1  graphisoftid-subtest.graphisoft.com
-127.0.0.1  graphisoftid-test.graphisoft.com
-127.0.0.1  graphisoftid.graphisoft.com
-127.0.0.1  ruleservice-api-subscr-test.graphisoft.com
-127.0.0.1  ruleservice-api-test.graphisoft.com
-127.0.0.1  ruleservice-api.graphisoft.com
-127.0.0.1  license-manager-api.azurewebsites.net
-127.0.0.1  waws-prod-am2-069.vip.azurewebsites.windows.net
-127.0.0.1  waws-prod-am2-069.cloudapp.net
-127.0.0.1  e5486.g.akamaiedge.net
-127.0.0.1  e8218.dscb1.akamaiedge.net
-127.0.0.1  e5486.g.akamaiedge.net
-127.0.0.1  par10s22-in-f232.1e100.net
-127.0.0.1  par10s28-in-f8.1e100.net
-127.0.0.1  par10s34-in-f8.1e100.net
-127.0.0.1  gs-com.cloudapp.net
-127.0.0.1  usagelogger.graphisoft.com
-127.0.0.1  poneytelecom.eu
-127.0.0.1  swupdate.graphisoft.com
-127.0.0.1  redirect.graphisoft.com
-
-#COREL
-0.0.0.0  apps.corel.com
-0.0.0.0  mc.corel.com
-0.0.0.0  iws.corel.com
-0.0.0.0  deploy.akamaitechnologies.com
-0.0.0.0  compute-1.amazonaws.com
-0.0.0.0  origin-mc.corel.com
-127.0.0.1 ipm.corel.com
-127.0.0.1 compute-1.amazonaws.com
-127.0.0.1 dev1.ipm.corel.public.corel.net
-127.0.0.1 sws.corel.com
-127.0.0.1 redirect.corel.com
-127.0.0.1 dam.corel.com
-
 #ADOBE
 127.0.0.1 ic.adobe.io
 127.0.0.1 1b9khekel6.adobe.io
@@ -74,3 +33,48 @@
 127.0.0.1 acp-ss-an1.adobe.io
 127.0.0.1 p13n-mr.adobe.io
 127.0.0.1 1b9khekel6.adobe.io
+
+#COREL
+0.0.0.0  apps.corel.com
+0.0.0.0  mc.corel.com
+0.0.0.0  iws.corel.com
+0.0.0.0  deploy.akamaitechnologies.com
+0.0.0.0  compute-1.amazonaws.com
+0.0.0.0  origin-mc.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 compute-1.amazonaws.com
+127.0.0.1 dev1.ipm.corel.public.corel.net
+127.0.0.1 sws.corel.com
+127.0.0.1 redirect.corel.com
+127.0.0.1 dam.corel.com
+
+#GRAPHISOFT
+127.0.0.1  wit-ams-cloudservice.cloudapp.net
+127.0.0.1  licensemanager.graphisoft.com
+127.0.0.1  licensemanager-test.graphisoft.com
+127.0.0.1  bimx-api.graphisoft.com
+127.0.0.1  licensemanager-subtest.graphisoft.com
+127.0.0.1  graphisoftid-subtest.graphisoft.com
+127.0.0.1  graphisoftid-test.graphisoft.com
+127.0.0.1  graphisoftid.graphisoft.com
+127.0.0.1  ruleservice-api-subscr-test.graphisoft.com
+127.0.0.1  ruleservice-api-test.graphisoft.com
+127.0.0.1  ruleservice-api.graphisoft.com
+127.0.0.1  license-manager-api.azurewebsites.net
+127.0.0.1  waws-prod-am2-069.vip.azurewebsites.windows.net
+127.0.0.1  waws-prod-am2-069.cloudapp.net
+127.0.0.1  e5486.g.akamaiedge.net
+127.0.0.1  e8218.dscb1.akamaiedge.net
+127.0.0.1  e5486.g.akamaiedge.net
+127.0.0.1  par10s22-in-f232.1e100.net
+127.0.0.1  par10s28-in-f8.1e100.net
+127.0.0.1  par10s34-in-f8.1e100.net
+127.0.0.1  gs-com.cloudapp.net
+127.0.0.1  usagelogger.graphisoft.com
+127.0.0.1  poneytelecom.eu
+127.0.0.1  swupdate.graphisoft.com
+127.0.0.1  redirect.graphisoft.com
+
+#RESOLUME
+127.0.0.1	resolume.com
+127.0.0.1	87.233.64.162,
