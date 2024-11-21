@@ -73,3 +73,33 @@
 127.0.0.1  poneytelecom.eu
 127.0.0.1  swupdate.graphisoft.com
 127.0.0.1  redirect.graphisoft.com
+
+#PARALLELS
+127.0.0.1 download.parallels.com
+127.0.0.1 update.parallels.com
+127.0.0.1 desktop.parallels.com
+127.0.0.1 download.parallels.com.cdn.cloudflare.net
+127.0.0.1 update.parallels.com.cdn.cloudflare.net
+127.0.0.1 desktop.parallels.com.cdn.cloudflare.net
+127.0.0.1 www.parallels.cn
+127.0.0.1 www.parallels.com
+127.0.0.1 www.parallels.de
+127.0.0.1 www.parallels.es
+127.0.0.1 www.parallels.fr
+127.0.0.1 www.parallels.nl
+127.0.0.1 www.parallels.pt
+127.0.0.1 www.parallels.ru
+127.0.0.1 www.parallelskorea.com
+127.0.0.1 reportus.parallels.com
+127.0.0.1 parallels.cn
+127.0.0.1 parallels.com
+127.0.0.1 parallels.de
+127.0.0.1 parallels.es
+127.0.0.1 parallels.fr
+127.0.0.1 parallels.nl
+127.0.0.1 parallels.pt
+127.0.0.1 parallels.ru
+127.0.0.1 parallelskorea.com
+127.0.0.1 pax-manager.myparallels.com
+127.0.0.1 myparallels.com
+127.0.0.1 my.parallels.com
