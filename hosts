@@ -33,6 +33,12 @@
 127.0.0.1 1b9khekel6.adobe.io
 127.0.0.1 i7pq6fgbsl.adobe.io
 
+#AUTODESK
+127.0.0.1	genuine-software.autodesk.com
+127.0.0.1	genuine-software1.autodesk.com
+127.0.0.1	genuine-software2.autodesk.com
+127.0.0.1 api.autodesk.com
+
 #COREL
 0.0.0.0  apps.corel.com
 0.0.0.0  mc.corel.com
